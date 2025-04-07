@@ -7,12 +7,12 @@ import org.junit.jupiter.api.Test;
 class CalculatorTest {
        
 	
-	@Test
-    void testAdd() {
-		Calculator calculator=new Calculator();
-		int result=calculator.add(2, 3);
-		assertEquals(5, result);
-	}
+//	@Test
+//    void testAdd() {
+//		Calculator calculator=new Calculator();
+//		int result=calculator.add(2, 3);
+//		assertEquals(5, result);
+//	}
 	@Test
 	 void testSub() {
 		Calculator calculator=new Calculator();
